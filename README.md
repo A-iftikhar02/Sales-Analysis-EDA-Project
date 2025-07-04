@@ -72,9 +72,9 @@ This is the second project in my journey toward becoming a professional **Data A
 ## 📂 Folder Structure
 
 Retail_Sales_EDA_Project/
-├── Superstore_EDA.py # Python file with data cleaning and EDA
-├── superstore.csv # Dataset
-└── README.md # Project summary and reflection
+── Superstore_EDA.py # Python file with data cleaning and EDA
+── superstore.csv # Dataset
+── README.md # Project summary and reflection
 
 
 
