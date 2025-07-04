@@ -31,8 +31,8 @@ The goal is to demonstrate practical EDA skills using **Python**, **Pandas**, an
 
 ```
 Retail_Sales_EDA_Project/
-├── Superstore_EDA.py        # Python script with data cleaning & EDA
-├── superstore.csv           # Dataset
+├── Sales_EDA.py        # Python script with data cleaning & EDA
+├── train.csv           # Dataset
 ├── README.md                # Project summary and reflection
 
 ```
