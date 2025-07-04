@@ -23,7 +23,6 @@ The goal is to demonstrate practical EDA skills using **Python**, **Pandas**, an
 * Python (VS Code)
 * Pandas for data manipulation
 * Matplotlib & Seaborn for visualizations
-* Jupyter Notebook (optional)
 * Superstore Dataset (CSV format)
 
 ---
@@ -35,7 +34,7 @@ Retail_Sales_EDA_Project/
 ├── Superstore_EDA.py        # Python script with data cleaning & EDA
 ├── superstore.csv           # Dataset
 ├── README.md                # Project summary and reflection
-└── output_images/           # (Optional) Saved charts or logs
+
 ```
 
 ---
